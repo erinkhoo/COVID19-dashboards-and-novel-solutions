@@ -21,6 +21,9 @@
 - [Singapore General Hospital, Ashley Chung's Appeal](https://www.facebook.com/ashley.chung.5209/posts/10158269041789208)
 - [Convalescent plasma as a potential therapy for COVID-19](https://buff.ly/3czs33T)
 
-###
 - [Bill Gates](https://www.gatesnotes.com/Health/How-to-respond-to-COVID-19)
+
+###
+- [SARS-CoV-19 Complete Genome](https://www.ncbi.nlm.nih.gov/nuccore/1798174254)
+- [Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset/kernels)
 
