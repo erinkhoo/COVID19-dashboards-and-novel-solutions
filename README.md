@@ -29,3 +29,6 @@
 - [Bill Gates; Gates's Notes](https://www.gatesnotes.com/Health/How-to-respond-to-COVID-19)
 - [Responding to Covid-19](https://www.nejm.org/doi/full/10.1056/NEJMp2003762)
 - [Amesh Adalja, Johns Hopkins Senior Scholar](https://youtu.be/ZhYcbo7rqEQ?t=10)
+
+### Mathematics Explanations
+- [Exponential growth and epidemics; 3Blue1Brown](https://www.youtube.com/watch?v=Kas0tIxDvrg)
