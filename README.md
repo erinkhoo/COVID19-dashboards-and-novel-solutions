@@ -1,4 +1,4 @@
-# COVID19 Dashboards & Novel Solutions
+# SARS-CoV-2 Dashboards & Novel Solutions
 
 ### Our World in Data
 - [Coronavirus Disease (COVID-19) – Research and Statistics](https://ourworldindata.org/coronavirus)
@@ -35,3 +35,8 @@
 
 ### Mathematics Explanations
 - [Exponential growth and epidemics; 3Blue1Brown](https://www.youtube.com/watch?v=Kas0tIxDvrg)
+
+## Compounds of Interest
+- [Chloroquine](https://docs.google.com/document/u/1/d/e/2PACX-1vTi-g18ftNZUMRAj2SwRPodtscFio7bJ7GdNgbJAGbdfF67WuRJB3ZsidgpidB2eocFHAVjIL-7deJ7/pub)
+- [Hydroxychloroquine](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa237/5801998)
+- [Camostat Mesylate](https://www.cell.com/cell/pdf/S0092-8674(20)30229-4.pdf) https://www.cell.com/cell/pdf/S0092-8674(20)30229-4.pdf
