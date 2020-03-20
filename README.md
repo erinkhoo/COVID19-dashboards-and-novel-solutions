@@ -32,6 +32,7 @@
 - [Bill Gates; Gates's Notes](https://www.gatesnotes.com/Health/How-to-respond-to-COVID-19)
 - [Responding to Covid-19](https://www.nejm.org/doi/full/10.1056/NEJMp2003762)
 - [Amesh Adalja, Johns Hopkins Senior Scholar](https://youtu.be/ZhYcbo7rqEQ?t=10)
+- [COVID-19 HANDBOOK from CHINESE EXPERIENCE](https://www.dropbox.com/s/ii4kulmuakvnmb4/COVID-19%20HANDBOOK%20from%20CHINESE%20EXPERIENCE%20%E8%8B%B1%E6%96%87%E7%89%88.pdf?dl=0)
 
 ### Mathematics Explanations
 - [Exponential growth and epidemics; 3Blue1Brown](https://www.youtube.com/watch?v=Kas0tIxDvrg)
